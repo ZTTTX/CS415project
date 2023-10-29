@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/CS415project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/CS415project/MyProject/Content/BPs/TestLevel.umap",
+				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/CS415project/MyProject/Content/BPs/MainMenu.uasset",
+				"C:/CS415project/MyProject/Content/BPs/MainMenuMap.umap",
+				"C:/CS415project/MyProject/Content/BPs/MenuGameMode.uasset",
+				"C:/CS415project/MyProject/Content/BPs/MenuImage.uasset",
+				"C:/CS415project/MyProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/CS415project/MyProject/Content/BPs/MainMenuWidget.uasset",
+				"C:/CS415project/MyProject/Content/BPs/DeadWidget.uasset",
+				"C:/CS415project/MyProject/Content/BPs/BP_CheckPoint.uasset",
+				"C:/CS415project/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/CS415project/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/CS415project/MyProject/Content/BPs/NewBlueprint.uasset",
+				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}
