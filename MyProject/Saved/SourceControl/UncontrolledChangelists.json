@@ -7,6 +7,12 @@
 			"files": [
 				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/BPs/TestLevel.umap",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/Inventory/BP_Inventory.uasset",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/Inventory/BPC_Inventory.uasset",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/VHS/BP_VHS.uasset",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/Inventory/BPI_Pickup.uasset",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/Inventory/B_InventoryWidget.uasset",
+				"C:/Users/harri/Desktop/Cs 415/Project/CS415project/MyProject/Content/Inventory/WB_ItemSlotWidget.uasset",
 				"C:/CS415project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/CS415project/MyProject/Content/BPs/TestLevel.umap",
 				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
