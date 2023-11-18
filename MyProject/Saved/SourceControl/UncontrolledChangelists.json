@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ag67/Documents/CS415project/MyProject/Content/BPs/VHS/BP_VHS.uasset",
+				"C:/Users/ag67/Documents/CS415project/MyProject/Content/BPs/Levels/BackroomsLevel1.umap",
+				"C:/Users/ag67/Documents/CS415project/MyProject/Content/BPs/VHS/BP_VHSSpawner.uasset",
 				"C:/CS415project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/CS415project/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/CS415project/MyProject/Content/BPs/MainMenu.uasset",
@@ -55,8 +58,6 @@
 				"E:/Coursework/cs415/CS415project/MyProject/Content/BPs/Levels/TestLevel.umap",
 				"E:/Coursework/cs415/CS415project/MyProject/Content/BPs/Levels/BackroomsLevel1.umap",
 				"E:/Coursework/cs415/CS415project/MyProject/Content/BPs/Monster/BP_monster.uasset",
-				"C:/Users/ag67/Documents/CS415project/MyProject/Content/BPs/VHS/BP_VHS.uasset",
-				"C:/Users/ag67/Documents/CS415project/MyProject/Content/BPs/Levels/BackroomsLevel1.umap",
 				"C:/CS415project/MyProject/Content/Inventory/B_InventoryWidget.uasset",
 				"C:/CS415project/MyProject/Content/Locker/Locker_Door.uasset",
 				"C:/CS415project/MyProject/Content/Locker/OutsideDoor.uasset",
