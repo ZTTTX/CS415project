@@ -3637,3 +3637,267 @@ Last issue:
 [2023.12.06-21.52.40:968][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 747 ms)
 [2023.12.06-21.52.40:975][ 28]AssetCheck: New page: Asset Save: TestLevel
 [2023.12.06-21.52.40:975][ 28]LogContentValidation: Display: Validating /Script/Engine.World /Game/BPs/Levels/TestLevel.TestLevel
+[2023.12.06-22.02.49:457][327]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_4 and WmfFileMediaSourceFactory_4
+[2023.12.06-22.02.49:538][327]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:\Users\justin50\Desktop\CS415Proj\CS415project\MyProject\Content\Movies\tape3.mp4)
+[2023.12.06-22.02.58:589][955]LogContentBrowser: Attempting asset rename: tape3 -> FMS_tape_3
+[2023.12.06-22.02.58:616][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-22.02.58:650][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/FMS_tape_3" FILE="../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/FMS_tape_3.uasset" SILENT=true
+[2023.12.06-22.02.58:652][955]LogSavePackage: Moving output files for package: /Game/Movies/FMS_tape_3
+[2023.12.06-22.02.58:652][955]LogSavePackage: Moving '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Saved/FMS_tape_302CADF1344DD32EE945F38821645A46D.tmp' to '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/FMS_tape_3.uasset'
+[2023.12.06-22.02.58:661][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 793 ms)
+[2023.12.06-22.02.58:702][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.06-22.02.58:729][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.06-22.02.58:757][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.06-22.02.58:764][955]AssetCheck: New page: Asset Save: FMS_tape_3
+[2023.12.06-22.02.58:764][955]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/Movies/FMS_tape_3.FMS_tape_3
+[2023.12.06-22.03.00:139][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-22.03.00:171][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/FMS_tape_3" FILE="../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/FMS_tape_3.uasset" SILENT=true
+[2023.12.06-22.03.00:173][ 73]LogSavePackage: Moving output files for package: /Game/Movies/FMS_tape_3
+[2023.12.06-22.03.00:174][ 73]LogSavePackage: Moving '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Saved/FMS_tape_324981C4E4836435DC347AF8E2A469405.tmp' to '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/FMS_tape_3.uasset'
+[2023.12.06-22.03.00:183][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 837 ms)
+[2023.12.06-22.03.00:190][ 73]AssetCheck: New page: Asset Save: FMS_tape_3
+[2023.12.06-22.03.00:190][ 73]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/Movies/FMS_tape_3.FMS_tape_3
+[2023.12.06-22.03.10:292][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-22.03.10:361][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BPs/TV/BP_TV_NEW" FILE="../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/BPs/TV/BP_TV_NEW.uasset" SILENT=true
+[2023.12.06-22.03.10:379][814]LogSavePackage: Moving output files for package: /Game/BPs/TV/BP_TV_NEW
+[2023.12.06-22.03.10:379][814]LogSavePackage: Moving '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Saved/BP_TV_NEWD10C208D458C387A533C199C07F788C0.tmp' to '../../../../../../Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/BPs/TV/BP_TV_NEW.uasset'
+[2023.12.06-22.03.10:389][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 933 ms)
+[2023.12.06-22.03.10:397][814]AssetCheck: New page: Asset Save: BP_TV_NEW
+[2023.12.06-22.03.10:397][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BPs/TV/BP_TV_NEW.BP_TV_NEW
+[2023.12.06-22.03.11:219][871]BlueprintLog: New page: Compile BP_TV_NEW
+[2023.12.06-22.03.11:284][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.06-22.03.15:772][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.06-22.03.15:784][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.06-22.03.15:784][235]PIE: New page: PIE session: TestLevel (Dec 6, 2023, 10:03:15 AM)
+[2023.12.06-22.03.15:784][235]LogPlayLevel: Creating play world package: /Game/BPs/Levels/UEDPIE_0_TestLevel
+[2023.12.06-22.03.15:791][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007249s)
+[2023.12.06-22.03.15:791][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BPs/Levels/TestLevel.TestLevel to /Game/BPs/Levels/UEDPIE_0_TestLevel.TestLevel (0.007301s)
+[2023.12.06-22.03.15:791][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-22.03.15:791][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-22.03.15:792][235]LogAIModule: Creating AISystem for world TestLevel
+[2023.12.06-22.03.15:792][235]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2023.12.06-22.03.15:823][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.12.06-22.03.15:826][235]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.06-22.03.15:826][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.06-22.03.15:826][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.06-22.03.15:827][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.06-22.03.15:827][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.06-22.03.15:827][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.06-22.03.15:829][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.06-22.03.15:865][235]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Rift S)
+[2023.12.06-22.03.15:865][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.06-22.03.15:865][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.06-22.03.15:865][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.06-22.03.15:866][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.06-22.03.15:866][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.06-22.03.15:868][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.06-22.03.15:868][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.06-22.03.15:868][235]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.06-22.03.15:868][235]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestLevel'.
+[2023.12.06-22.03.15:868][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.06-22.03.15:872][235]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.06-22.03.15:875][235]LogWorld: Bringing World /Game/BPs/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.12.06-16.03.15
+[2023.12.06-22.03.15:875][235]LogWorld: Bringing up level for play took: 0.003721
+[2023.12.06-22.03.15:879][235]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.12.06-22.03.15:976][235]PIE: Server logged in
+[2023.12.06-22.03.15:977][235]PIE: Play in editor total start time 0.193 seconds.
+[2023.12.06-22.03.17:433][388]LogBlueprintUserMessages: [BP_VHS_C_3] Item Get
+[2023.12.06-22.03.19:511][632]LogBlueprintUserMessages: [BP_TV_NEW_C_1] Inserted VHS into TV!
+[2023.12.06-22.03.19:511][632]LogElectraPlayer: [00000912484A7E00] FElectraPlayer() created.
+[2023.12.06-22.03.19:511][632]LogElectraPlayerPlugin: [000009124CC66500] IMediaPlayer::Open: Options@000009124CD33930
+[2023.12.06-22.03.19:518][632]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] IMediaPlayer::Open(file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4)
+[2023.12.06-22.03.19:535][634]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Opening stream at "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4"
+[2023.12.06-22.03.19:610][643]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] MP4 playlist reader: The mp4 at "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4" is not fast-startable. Consider moving the 'moov' box in front of the 'mdat' for faster startup times.
+[2023.12.06-22.03.19:610][643]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Received master playlist from "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4"
+[2023.12.06-22.03.19:619][644]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Received initial stream playlists
+[2023.12.06-22.03.19:619][644]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Found 1920 * 1080 video stream at bitrate 15642781
+[2023.12.06-22.03.19:619][644]LogElectraPlayerPlugin: [000009124CC66500] IMediaControls::SetRate(1.000000)
+[2023.12.06-22.03.19:627][645]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Initial buffering starts
+[2023.12.06-22.03.19:627][645]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Player switched video quality to 15642781 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2023.12.06-22.03.19:694][653]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Initial buffering ended after 0.067s
+[2023.12.06-22.03.19:694][653]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Player starts prerolling to warm decoders and renderers
+[2023.12.06-22.03.19:783][663]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Player prerolling complete
+[2023.12.06-22.03.19:799][665]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Playback started at play position 0.000
+[2023.12.06-22.03.19:799][665]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Playback resumed at play position 0.000
+[2023.12.06-22.03.32:636][161]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] IMediaPlayer::Close()
+[2023.12.06-22.03.32:636][161]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Playback stopped. Last play position 12.823
+[2023.12.06-22.03.32:636][161]LogElectraPlayer: [00000912484A7E00][00000911DC18E5D0] Electra player statistics:
+OS: Windows 11 (22H2) [10.0.22621.2715]
+GPU Adapter: NVIDIA GeForce RTX 3090
+URL: file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4
+Time after master playlist loaded: 0.075s
+Time after stream playlists loaded: 0.083s
+Time for initial buffering: 0.067s
+Initial video stream bitrate: 15642781 bps
+Initial buffering bandwidth bps: 21111684000.000
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.089s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 0
+Total time spent rebuffering: 0.000s
+Longest rebuffering time: 0.000s
+First media timeline start: 0.000s
+First media timeline end: 23.867s
+Last media timeline start: 0.000s
+Last media timeline end: 23.867s
+Media duration: 23.867s
+Play position at start: 0.000s
+Play position at end: 12.823s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 29227108
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+15642781 : 9
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Playing
+Last issue: 
+
+[2023.12.06-22.03.32:639][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-22.03.32:639][161]LogWorld: BeginTearingDown for /Game/BPs/Levels/UEDPIE_0_TestLevel
+[2023.12.06-22.03.32:639][161]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-22.03.32:640][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-22.03.32:650][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.06-22.03.32:655][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-22.03.32:683][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.06-22.03.32:683][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.06-22.03.32:683][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.06-22.03.32:686][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.06-22.03.32:691][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-22.03.32:696][161]LogElectraPlayer: [00000911DC18E5D0] DoCloseAsync() finished after 59.070 msec!
+[2023.12.06-22.03.32:761][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.06-22.03.32:768][161]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_50) Not currently registered. Aborting.
+[2023.12.06-22.03.32:769][161]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_34) Not currently registered. Aborting.
+[2023.12.06-22.03.32:769][161]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_18) Not currently registered. Aborting.
+[2023.12.06-22.03.32:769][161]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_MediaSoundComponent_11.AudioComponent_1) Not currently registered. Aborting.
+[2023.12.06-22.03.32:769][161]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_MediaSoundComponent_4.AudioComponent_0) Not currently registered. Aborting.
+[2023.12.06-22.03.32:824][162]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.12.06-22.03.32:824][162]LogElectraPlayer: [00000912484A7E00] ~FElectraPlayer() finished.
+[2023.12.06-22.07.43:635][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.06-22.07.43:649][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.06-22.07.43:649][428]PIE: New page: PIE session: TestLevel (Dec 6, 2023, 10:07:43 AM)
+[2023.12.06-22.07.43:649][428]LogPlayLevel: Creating play world package: /Game/BPs/Levels/UEDPIE_0_TestLevel
+[2023.12.06-22.07.43:657][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007155s)
+[2023.12.06-22.07.43:657][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BPs/Levels/TestLevel.TestLevel to /Game/BPs/Levels/UEDPIE_0_TestLevel.TestLevel (0.007206s)
+[2023.12.06-22.07.43:657][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-22.07.43:657][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-22.07.43:657][428]LogAIModule: Creating AISystem for world TestLevel
+[2023.12.06-22.07.43:658][428]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2023.12.06-22.07.43:689][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.06-22.07.43:692][428]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.06-22.07.43:692][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.06-22.07.43:692][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.06-22.07.43:693][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.06-22.07.43:693][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.06-22.07.43:693][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.06-22.07.43:695][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.06-22.07.43:727][428]LogAudioMixer: Display: Using Audio Hardware Device Headphones (4- Rift S)
+[2023.12.06-22.07.43:728][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.06-22.07.43:728][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.06-22.07.43:728][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.06-22.07.43:729][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.06-22.07.43:729][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.06-22.07.43:731][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.06-22.07.43:731][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.06-22.07.43:731][428]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.06-22.07.43:731][428]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestLevel'.
+[2023.12.06-22.07.43:731][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.06-22.07.43:734][428]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.06-22.07.43:738][428]LogWorld: Bringing World /Game/BPs/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.12.06-16.07.43
+[2023.12.06-22.07.43:739][428]LogWorld: Bringing up level for play took: 0.003690
+[2023.12.06-22.07.43:741][428]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.12.06-22.07.43:834][428]PIE: Server logged in
+[2023.12.06-22.07.43:834][428]PIE: Play in editor total start time 0.185 seconds.
+[2023.12.06-22.07.48:248][939]LogBlueprintUserMessages: [BP_VHS_C_2] Item Get
+[2023.12.06-22.07.50:620][219]LogBlueprintUserMessages: [BP_TV_NEW_C_1] Inserted VHS into TV!
+[2023.12.06-22.07.50:621][219]LogElectraPlayer: [000009126F742A00] FElectraPlayer() created.
+[2023.12.06-22.07.50:621][219]LogElectraPlayerPlugin: [000009125617F600] IMediaPlayer::Open: Options@000009124CD33930
+[2023.12.06-22.07.50:626][219]LogElectraPlayer: [000009126F742A00][000009126E2C1150] IMediaPlayer::Open(file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4)
+[2023.12.06-22.07.50:641][221]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Opening stream at "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4"
+[2023.12.06-22.07.50:716][230]LogElectraPlayer: [000009126F742A00][000009126E2C1150] MP4 playlist reader: The mp4 at "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4" is not fast-startable. Consider moving the 'moov' box in front of the 'mdat' for faster startup times.
+[2023.12.06-22.07.50:716][230]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Received master playlist from "file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4"
+[2023.12.06-22.07.50:725][231]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Received initial stream playlists
+[2023.12.06-22.07.50:725][231]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Found 1920 * 1080 video stream at bitrate 15642781
+[2023.12.06-22.07.50:725][231]LogElectraPlayerPlugin: [000009125617F600] IMediaControls::SetRate(1.000000)
+[2023.12.06-22.07.50:732][232]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Initial buffering starts
+[2023.12.06-22.07.50:733][232]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Player switched video quality to 15642781 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2023.12.06-22.07.50:800][240]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Initial buffering ended after 0.067s
+[2023.12.06-22.07.50:800][240]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Player starts prerolling to warm decoders and renderers
+[2023.12.06-22.07.50:885][250]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Player prerolling complete
+[2023.12.06-22.07.50:909][253]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Playback started at play position 0.000
+[2023.12.06-22.07.50:909][253]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Playback resumed at play position 0.000
+[2023.12.06-22.08.14:619][  9]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Playback paused at play position 23.867
+[2023.12.06-22.08.14:619][  9]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Playback reached end at play position 23.867
+[2023.12.06-22.08.26:208][382]LogElectraPlayer: [000009126F742A00][000009126E2C1150] IMediaPlayer::Close()
+[2023.12.06-22.08.26:208][382]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Playback stopped. Last play position 23.867
+[2023.12.06-22.08.26:208][382]LogElectraPlayer: [000009126F742A00][000009126E2C1150] Electra player statistics:
+OS: Windows 11 (22H2) [10.0.22621.2715]
+GPU Adapter: NVIDIA GeForce RTX 3090
+URL: file://C:/Users/justin50/Desktop/CS415Proj/CS415project/MyProject/Content/Movies/tape3.mp4
+Time after master playlist loaded: 0.075s
+Time after stream playlists loaded: 0.084s
+Time for initial buffering: 0.067s
+Initial video stream bitrate: 15642781 bps
+Initial buffering bandwidth bps: 21111669333.333
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.085s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 0
+Total time spent rebuffering: 0.000s
+Longest rebuffering time: 0.000s
+First media timeline start: 0.000s
+First media timeline end: 23.867s
+Last media timeline start: 0.000s
+Last media timeline end: 23.867s
+Media duration: 23.867s
+Play position at start: 0.000s
+Play position at end: 23.867s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 47163567
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+15642781 : 12
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Ended
+Last issue: 
+
+[2023.12.06-22.08.26:212][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-22.08.26:212][382]LogWorld: BeginTearingDown for /Game/BPs/Levels/UEDPIE_0_TestLevel
+[2023.12.06-22.08.26:212][382]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-22.08.26:213][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-22.08.26:223][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.06-22.08.26:228][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-22.08.26:250][382]LogElectraPlayer: [000009126E2C1150] DoCloseAsync() finished after 42.923 msec!
+[2023.12.06-22.08.26:257][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-22.08.26:258][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.06-22.08.26:258][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.06-22.08.26:260][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.06-22.08.26:360][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.06-22.08.26:367][382]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_50) Not currently registered. Aborting.
+[2023.12.06-22.08.26:367][382]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_34) Not currently registered. Aborting.
+[2023.12.06-22.08.26:367][382]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_AudioComponent_18) Not currently registered. Aborting.
+[2023.12.06-22.08.26:367][382]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_MediaSoundComponent_11.AudioComponent_1) Not currently registered. Aborting.
+[2023.12.06-22.08.26:367][382]LogActorComponent: ReregisterComponent: (/Game/BPs/Levels/TestLevel.TestLevel:PersistentLevel.REINST_BP_TV_NEW_C_0.TRASH_MediaSoundComponent_4.AudioComponent_0) Not currently registered. Aborting.
+[2023.12.06-22.08.26:424][383]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.12.06-22.08.26:425][383]LogElectraPlayer: [000009126F742A00] ~FElectraPlayer() finished.
